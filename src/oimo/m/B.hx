@@ -183,7 +183,8 @@ class B {
 							name: name,
 							type: macro:Float,
 							expr: null,
-							isFinal: false
+							isFinal: false,
+							meta: null
 						};
 					}));
 				}
